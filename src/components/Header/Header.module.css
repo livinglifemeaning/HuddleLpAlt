@@ -1,0 +1,10 @@
+.header {
+  background: url("./bg-hero-mobile.svg") var(--c-cyan-light) top/cover no-repeat;
+}
+
+@media (min-width: 750px) {
+  .header {
+    background: url("./bg-hero-desktop.svg") var(--c-cyan-light) center/cover no-repeat;
+
+  }
+}

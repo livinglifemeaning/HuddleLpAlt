@@ -1,0 +1,33 @@
+.footer{
+    background-color: var(--c-cyan-dark);
+    color: #fff; 
+    padding: 10rem var(--p-mobile) 3rem; 
+}
+
+.logo{width: 200px}
+
+.infoBox{
+margin-top: 2rem; 
+}
+
+.copyright{
+    text-align: center; 
+    margin-top: 1rem; 
+    font-size: .9rem;
+}
+
+@media (min-width: 750px) {
+    .footer{
+       padding: 10rem var(--p-desktop) 5rem; 
+    }
+    .infoBox{
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-top: 2.5rem; 
+    }
+    .copyright{
+        text-align: right; 
+        margin-top: 2rem; 
+    }
+}

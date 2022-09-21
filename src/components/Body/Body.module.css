@@ -1,0 +1,41 @@
+.body{
+padding: 4rem var(--p-mobile) 5rem; 
+}
+
+.sectionsBox{
+    display: flex; 
+    flex-direction: column; 
+    gap: 2rem; 
+}
+
+.readyBox{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    gap: 1.5rem; 
+    padding: 3rem 1rem; 
+    border-radius: 10px; 
+    box-shadow: 0 0 12px 1px rgba(163, 163, 163, 0.2);
+    translate: 0 70%; 
+    background-color: #fff;
+    max-width: 45rem; 
+}
+
+.readyBox h2{
+    font-size: 1.1rem; 
+    font-family: var(--f-Poppins); 
+}
+
+@media (min-width: 750px) {
+    .body{
+        padding: 4rem var(--p-desktop) 5rem; 
+    }
+
+    .readyBox{
+       
+        margin: 0 auto; 
+    }
+    .readyBox h2{
+        font-size: 1.8rem; 
+    }
+}

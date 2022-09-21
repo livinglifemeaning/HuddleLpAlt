@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/HuddleLpAlt/static/css/main.0d76b8e3.css",
+    "main.js": "/HuddleLpAlt/static/js/main.f0c2a4fa.js",
+    "static/media/flowing.svg": "/HuddleLpAlt/static/media/flowing.447b9b47aef8c266f047e609cbf11004.svg",
+    "static/media/illustration-your-users.svg": "/HuddleLpAlt/static/media/illustration-your-users.c07ebfaafd557ff00fa41ee62081bcac.svg",
+    "static/media/illustration-grow-together.svg": "/HuddleLpAlt/static/media/illustration-grow-together.3c29212c7a9ccd6cccf0412e4b520833.svg",
+    "static/media/headerLogo.svg": "/HuddleLpAlt/static/media/headerLogo.3c5a854404daac9e68209a04cf4dfbbe.svg",
+    "static/media/footerLogo.svg": "/HuddleLpAlt/static/media/footerLogo.d9ae5618cfb89d278527fd2fb9eb95a6.svg",
+    "static/media/illustration-mockups.svg": "/HuddleLpAlt/static/media/illustration-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
+    "static/media/bg-hero-desktop.svg": "/HuddleLpAlt/static/media/bg-hero-desktop.6f3681282137997079c4.svg",
+    "static/media/bg-hero-mobile.svg": "/HuddleLpAlt/static/media/bg-hero-mobile.fa71e99ae112550574bc.svg",
+    "index.html": "/HuddleLpAlt/index.html",
+    "static/media/icon-phone.svg": "/HuddleLpAlt/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/icon-location.svg": "/HuddleLpAlt/static/media/icon-location.a681f02d94e561498fa0781c3538edac.svg",
+    "static/media/icon-email.svg": "/HuddleLpAlt/static/media/icon-email.19ab894b09784943bec7e08b3e1344a3.svg",
+    "main.0d76b8e3.css.map": "/HuddleLpAlt/static/css/main.0d76b8e3.css.map",
+    "main.f0c2a4fa.js.map": "/HuddleLpAlt/static/js/main.f0c2a4fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d76b8e3.css",
+    "static/js/main.f0c2a4fa.js"
+  ]
+}
